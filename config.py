@@ -20,7 +20,7 @@ output_file = '../output1.xlsx'
 # output_file = '../output3.xlsx'
 
 template_start_row = 1
-template_end_row = 72
+template_end_row = 74
 template_columns = 3
 
 # EAF 1
